@@ -106,4 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 About Me
 
 I'm a passionate web developer and open-source contributor. Check out my projects and contributions on [GitHub](https://github.com/wassimoubaziz).
-and my LinkedIn profile [Wassim Oubaziz](https://www.linkedin.com/in/wassimoubaziz/).
+and my LinkedIn profile [Wassim Oubaziz](https://www.linkedin.com/in/wassim-oubaziz/).
